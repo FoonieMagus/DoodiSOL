@@ -1,0 +1,24 @@
+{
+  "name": "DOODiPALS",
+  "symbol": "DOODi",
+  "mintAddress": "3iCJnnDYFT4RrPs7vMzw21sfVfy4br1xWmJioz7FGJUR",
+  "decimals": 6,
+  "totalSupply": "1000000000",
+  "creatorWallet": "7tf2oEx3GNyLyTPB9uM8uF4gReR45c6FEAVzjaekvbGG",
+  "creatorTokenAccount": "2rGbe1New6P2dHX8xPDNTSvR99JSTVuGV3sDqkZH74bN",
+  "mintTransaction": null,
+  "metadataTransaction": "35LxLxefHjZBjantnWU39sBQyyJttsSc19QeVH9RMLZ1kLAatQXmFAK61HhHmuGrKDVvwmHjoEhFrpaRD8ERJZRK",
+  "metadataAccount": "CsMAsBeKQ8gqaswoxZScfQAbHvBZ4kpFwX95gta1h87F",
+  "network": "mainnet",
+  "networkConfig": {
+    "name": "Mainnet Beta",
+    "cluster": "mainnet-beta",
+    "url": "https://api.mainnet-beta.solana.com"
+  },
+  "createdAt": "2025-09-09T02:30:33.091Z",
+  "mintAuthority": null,
+  "freezeAuthority": null,
+  "status": "completed",
+  "mintAuthorityRevokedAt": "2025-09-09T09:09:55.366Z",
+  "revokeTransaction": "pzzVidiTAz7LB1hxGRCDtStL3WqbFgRQpX2VuonjnHpYM9qkAmUfSmf4g97tnatjfaipGy22SyVGx4HX1P6irMV"
+}

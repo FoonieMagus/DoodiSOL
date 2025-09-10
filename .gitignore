@@ -1,0 +1,23 @@
+# Rust
+/target/
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Solana
+test-ledger/
+*.so
+
+# Node modules (if using JS/TS client)
+node_modules/
+
+.claude
